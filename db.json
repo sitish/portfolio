@@ -1,4 +1,4 @@
-{ "portfolio":[{"id":1,"title":"Biostatistician III","desc":"Traumatic rupture of volar plate of unspecified finger at metacarpophalangeal and interphalangeal joint"},
+[{"id":1,"title":"Biostatistician III","desc":"Traumatic rupture of volar plate of unspecified finger at metacarpophalangeal and interphalangeal joint"},
 {"id":2,"title":"Computer Systems Analyst III","desc":"Age-related osteoporosis with current pathological fracture, unspecified hand, initial encounter for fracture"},
 {"id":3,"title":"VP Quality Control","desc":"Toxic effect of chlorine gas, assault, sequela"},
 {"id":4,"title":"Web Designer III","desc":"Nondisplaced fracture of left tibial spine, subsequent encounter for closed fracture with delayed healing"},
@@ -7,4 +7,4 @@
 {"id":7,"title":"VP Quality Control","desc":"Fall from other flat-bottomed pedestrian conveyance"},
 {"id":8,"title":"Graphic Designer","desc":"Strain of flexor muscle, fascia and tendon of thumb at forearm level"},
 {"id":9,"title":"Help Desk Operator","desc":"Other secondary osteonecrosis, unspecified ankle"},
-{"id":10,"title":"Tax Accountant","desc":"Motorcycle driver injured in collision with car, pick-up truck or van in traffic accident, sequela"}]}
+{"id":10,"title":"Tax Accountant","desc":"Motorcycle driver injured in collision with car, pick-up truck or van in traffic accident, sequela"}]
